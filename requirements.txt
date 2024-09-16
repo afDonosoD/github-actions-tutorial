@@ -1,0 +1,7 @@
+ConfigUpdater==3.2
+packaging==24.1
+platformdirs==3.11.0
+PyScaffold==4.5
+setuptools==75.0.0
+setuptools-scm==8.1.0
+tomlkit==0.13.2
