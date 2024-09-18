@@ -1,6 +1,6 @@
 import datetime
 
-
+# Clase que representa una persona
 class Persona:
 
     def __init__(self, nombre, edad):
